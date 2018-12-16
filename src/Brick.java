@@ -6,7 +6,7 @@ import java.awt.Graphics;
  * The bricks that the ball must hit.
  * 
  * @since 11.15.2018
- * @author tayloreyben0315
+ * @author seymour
  */
 public class Brick {
     
