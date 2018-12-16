@@ -16,7 +16,7 @@ import javax.swing.ImageIcon;
  * Main window for breakout
  * 
  * @since 11.12.2018
- * @author tayloreyben0315
+ * @author seymour
  */
 public class Window extends javax.swing.JFrame implements KeyListener, MouseListener, MouseMotionListener {
 
