@@ -9,7 +9,7 @@ import javax.imageio.ImageIO;
  * Makes images easier to make and takes up less space in the main file.
  * 
  * @since 22.11.2018
- * @author Taylor
+ * @author seymour
  */
 public class Image {
     int x, y;
