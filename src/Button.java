@@ -9,7 +9,7 @@ import javax.imageio.ImageIO;
  * Buttons that you can click. To be used in menus.
  * 
  * @since 21.11.2018
- * @author Taylor
+ * @author seymour
  */
 public class Button {
     public BufferedImage img, imgHover;
