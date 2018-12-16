@@ -6,7 +6,7 @@ import java.awt.Graphics;
  * The main ball that must be hit around.
  * 
  * @since 10.26.2018
- * @author tayloreyben0315
+ * @author seymour
  */
 
 public class Ball {
